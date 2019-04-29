@@ -1,1 +1,1 @@
-# milas991.github.i0
+Navik is an educational – interactive web application that explores political and war events in the violent Greater - Serbian aggression on the Republic of Croatia after the break - up of the Socialist Federal Republic of Yugoslavia, during which Croatia became an independent and sovereign state.
