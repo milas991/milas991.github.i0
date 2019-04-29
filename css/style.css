@@ -1,0 +1,174 @@
+#mapid { 
+	height: 98%; 
+	width: 99%; 
+	position: absolute;
+}
+.info {
+    padding: 6px 8px;
+    font: 15px Palatino, URW Palladio L, serif;
+    background: #fff5f0;
+	opacity: 0.9;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+	width: 300px;
+	height: 310px;
+	border: 1px solid #737373;
+}
+.info h4 {
+    font: 12px Georgia, Times New Roman, serif;
+	font-weight: bold;
+	text-align: center;
+	margin: 10px 15px 15px 15px;
+    color: #353535;
+}
+.info2 {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: #fff5f0;
+    opacity: 0.9;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+	border: 1px solid #737373;
+}
+#title {
+    text-align: center;
+    font: 16px Georgia, Times New Roman, serif;
+	color: #353535;
+}
+#municipality {
+	text-align: center;
+    color: #535353;
+}
+table {
+	width: 100%;
+	padding: 5px 0px 0px 15px;
+    color: #404040;
+}
+.info2 h3 {
+    font: 12px Georgia, Times New Roman, serif;
+	font-weight: bold;
+    margin: 0 0 10px;
+	color: #353535;
+}
+.legend {
+    line-height: 18px;
+    color: #555;
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+.pie_graph {
+    width: 225px;
+	height: 285px;
+    opacity: 1;
+    text-align: center;
+    background: #fff5f0;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    border: 1px solid #737373;
+	position: relative;
+	opacity: 0.9;
+
+}
+
+.pie_graph h4 {
+    font: 12px Georgia, Times New Roman, serif;
+	font-weight: bold;
+	text-align: center;
+    color: #353535;
+	padding: 10px 0px 0px 0px;
+}
+
+.pie {
+	margin: 10px;
+    z-index: 1;
+}
+.pie text {
+    font-family: "Verdana";
+    fill: #888;
+}
+.pie .name-text{
+    font-size: 1em;
+}
+.pie .value-text{
+    font-size: 3em;
+}
+
+
+.leaflet-control-layers-toggle {
+  background-image: url("layer.png")!important;
+	background-color: #fff5f0;
+  background-size: 20px 20px;
+}
+
+.leaflet-touch .leaflet-control-layers-toggle {
+  background-image: url("layer.png")!important;
+background-color: #fff5f0;
+}
+
+.leaflet-control-layers-expanded {
+  color: #252525;
+  background-color: #fff5f0;
+}
+
+#sidebar {
+				background: #fff5f0;
+				border: 1px solid #737373;
+				padding: 25px 25px;
+				border-radius: 5px;
+			}
+
+path.slice{
+   stroke: white;
+   stroke-width:0.5px;
+}
+}
+
+.labelValue
+{
+	font-size: 60%;
+	opacity: .5;
+	
+}
+
+.toolTip {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: none;
+    width: auto;
+    height: auto;
+    background: none repeat scroll 0 0 white;
+    border: 0 none;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: -3px 3px 15px #888888;
+    color: black;
+    font: 12px sans-serif;
+    padding: 5px;
+    text-align: center;
+	position: fixed;
+
+	
+}
+text {
+  font: 12px sans-serif;
+}
+#demo {
+    font: 13px Arial, Helvetica, sans-serif;
+	color: #353535;
+
+}
+#radio {
+    font: 13px Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #353535;
+}
+
+			.legendText {
+			  font: 17px Georgia, Times New Roman, serif;
+			  vertical-align: middle;
+
+			}
